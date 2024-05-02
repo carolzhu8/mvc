@@ -1,0 +1,6 @@
+# Best with window > 800 x 800
+shape RECT1 rectangle 0 0 1000 1000 255 255 0
+shape CIRCLE1 oval 0 0 20 20 255 128 0
+shape CIRCLE2 oval 50 0 20 20 255 128 0
+
+snapshot Wallpaper Designed by Teri
